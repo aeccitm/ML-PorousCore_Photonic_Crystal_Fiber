@@ -24,4 +24,4 @@ The labeled data required for training the network were generated through numeri
 
 This database will allow scientists and researchers to access detailed information about the optical properties of the porous-core THz waveguides shown in Figure and use it to optimize the design of these waveguides and related optical devices. In addition, continued expansion and optimization of the database is expected to further improve the performance of the ML model and accelerate the design of future PCFs and optical devices based on THz waveguides.
 
-![Cross-section view of the proposed porous-core THz waveguide. The inset shows the enlarged view of the porous- core][https://files.osf.io/v1/resources/269zn/providers/osfstorage/64ae1795cdab330502de4e0b?mode=render]
+![Cross-section view of the proposed porous-core THz waveguide. The inset shows the enlarged view of the porous- core][fig1-1.png]
